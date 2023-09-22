@@ -1,0 +1,11 @@
+{
+  "itemGroup.cca:main": "Create Comes Alive",
+
+  "item.cca.brass_engagement_ring": "Brass Engagement Ring",
+  "item.cca.brass_engagement_ring.tooltip": "Engage to someone with enough hearts",
+  "item.cca.brass_wedding_ring": "Brass Wedding Ring",
+  "item.cca.brass_wedding_ring.tooltip": "Engage to someone with enough hearts",
+
+  "block.cca.andesite_upright_headstone": "Andesite Upright Headstone",
+  "block.cca.andesite_slanted_headstone": "Andesite Slanted Headstone"
+}

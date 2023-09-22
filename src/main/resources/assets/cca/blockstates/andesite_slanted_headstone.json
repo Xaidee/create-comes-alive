@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east": { "y": 90, "model": "cca:block/andesite_slanted_headstone" },
+    "facing=north": { "model": "cca:block/andesite_slanted_headstone" },
+    "facing=south": { "y": 180, "model": "cca:block/andesite_slanted_headstone" },
+    "facing=west": { "y": 270, "model": "cca:block/andesite_slanted_headstone" }
+  }
+}

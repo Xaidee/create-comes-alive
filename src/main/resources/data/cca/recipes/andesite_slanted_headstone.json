@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    " I ",
+    "## "
+  ],
+  "key": {
+    "#": { "item": "create:andesite_alloy" },
+    "I": { "item": "minecraft:bone" }
+  },
+  "result": {
+    "item": "cca:andesite_slanted_headstone"
+  }
+}

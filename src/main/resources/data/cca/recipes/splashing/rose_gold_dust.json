@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "mca:rose_gold_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:gold_nugget",
+      "count": 6
+    }
+  ]
+}

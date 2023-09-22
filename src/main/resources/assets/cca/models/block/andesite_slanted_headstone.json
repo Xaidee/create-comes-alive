@@ -1,0 +1,6 @@
+{
+  "parent": "mca:block/slanted_headstone",
+  "textures": {
+    "5": "cca:block/andesite_slanted_headstone"
+  }
+}

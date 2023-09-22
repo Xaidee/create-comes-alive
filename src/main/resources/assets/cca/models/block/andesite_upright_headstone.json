@@ -1,0 +1,6 @@
+{
+  "parent": "mca:block/upright_headstone",
+  "textures": {
+    "1": "cca:block/andesite_upright_headstone"
+  }
+}

@@ -1,0 +1,42 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+issueTrackerURL="https://github.com/xaidee/create-comes-alive/issues"
+
+[[mods]]
+modId="cca"
+version="${file.jarVersion}"
+displayName="Create Comes Alive"
+displayURL="https://github.com/xaidee/create-comes-alive"
+logoFile="cca.png"
+credits=""
+authors="Xaidee Quartz"
+description='''
+An addon to Minecraft Comes Alive that integrates the Create mod.
+'''
+
+[[dependencies.cca]]
+modId="forge"
+mandatory=true
+versionRange="[43.1.0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.cca]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.19.3)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.cca]]
+modId="create"
+mandatory=true
+versionRange="[0.5.1.b,0.5.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.cca]]
+modId="mca"
+mandatory=true
+versionRange="[7.5.8,)"
+ordering="NONE"
+side="BOTH"

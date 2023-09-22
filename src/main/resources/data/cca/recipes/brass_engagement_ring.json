@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BDB",
+    "B B",
+    "BBB"
+  ],
+  "key": {
+    "B": [
+      { "item":  "create:brass_ingot" }
+    ],
+    "D": [
+      { "item":  "minecraft:diamond" }
+    ]
+  },
+  "result": {
+    "item": "cca:brass_engagement_ring"
+  }
+}
