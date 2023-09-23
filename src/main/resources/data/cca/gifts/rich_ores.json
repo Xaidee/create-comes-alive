@@ -1,0 +1,7 @@
+{
+  "conditions": [],
+  "items": {
+    "create:brass_ingot": 20,
+    "create:zinc_ingot": 15
+  }
+}
